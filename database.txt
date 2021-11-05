@@ -1,0 +1,50 @@
+1|9781471146701|Shoe Dog: A Memoir by the Creator of NIKE|Phil Knight|03/05/2018|0
+2|9781471146701|Shoe Dog: A Memoir by the Creator of NIKE|Phil Knight|03/05/2018|0001
+3|9781471146701|Shoe Dog: A Memoir by the Creator of NIKE|Phil Knight|03/05/2018|0001
+4|9781471146701|Shoe Dog: A Memoir by the Creator of NIKE|Phil Knight|03/05/2018|0007
+5|9781471146701|Shoe Dog: A Memoir by the Creator of NIKE|Phil Knight|03/05/2018|0004
+6|9780753555644|Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future|Ashlee Vance|10/03/2016|0002
+7|9780753555644|Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future|Ashlee Vance|10/03/2016|0002
+8|9780753555644|Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future|Ashlee Vance|10/03/2016|0001
+9|9780753555644|Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future|Ashlee Vance|10/03/2016|0001
+10|9780753555644|Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future|Ashlee Vance|10/03/2016|0
+11|9780007547999|Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian and Tom Griffiths|06/04/2017|0003
+12|9780007547999|Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian and Tom Griffiths|06/04/2017|0
+13|9780007547999|Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian and Tom Griffiths|06/04/2017|0
+14|9780007547999|Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian and Tom Griffiths|06/04/2017|0
+15|9780007547999|Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian and Tom Griffiths|06/04/2017|0
+16|9781473695993|Brief Answers to the Big Questions|Stephen Hawking|05/03/2020|0004
+17|9781473695993|Brief Answers to the Big Questions|Stephen Hawking|05/03/2020|0
+18|9781473695993|Brief Answers to the Big Questions|Stephen Hawking|05/03/2020|0009
+19|9781473695993|Brief Answers to the Big Questions|Stephen Hawking|05/03/2020|0
+20|9781473695993|Brief Answers to the Big Questions|Stephen Hawking|05/03/2020|0
+21|9781478008316|Cloud Ethics: Algorithms and the Attributes of Ourselves and Others|Louise Amoore|08/05/2020|0
+22|9781478008316|Cloud Ethics: Algorithms and the Attributes of Ourselves and Others|Louise Amoore|08/05/2020|0001
+23|9781478008316|Cloud Ethics: Algorithms and the Attributes of Ourselves and Others|Louise Amoore|08/05/2020|0
+24|9781478008316|Cloud Ethics: Algorithms and the Attributes of Ourselves and Others|Louise Amoore|08/05/2020|0
+25|9781478008316|Cloud Ethics: Algorithms and the Attributes of Ourselves and Others|Louise Amoore|08/05/2020|0009
+26|9780241491515|A Promised Land|Barack Obama|17/11/2020|0001
+27|9780241491515|A Promised Land|Barack Obama|17/11/2020|0
+28|9780241491515|A Promised Land|Barack Obama|17/11/2020|0
+29|9780241491515|A Promised Land|Barack Obama|17/11/2020|0
+30|9780241491515|A Promised Land|Barack Obama|17/11/2020|0
+31|9780735611313|Code: The Hidden Language of Computer Hardware and Software|Charles Petzold|21/10/2000|0001
+32|9780735611313|Code: The Hidden Language of Computer Hardware and Software|Charles Petzold|21/10/2000|0
+33|9780735611313|Code: The Hidden Language of Computer Hardware and Software|Charles Petzold|21/10/2000|0012
+34|9780735611313|Code: The Hidden Language of Computer Hardware and Software|Charles Petzold|21/10/2000|0
+35|9780735611313|Code: The Hidden Language of Computer Hardware and Software|Charles Petzold|21/10/2000|0
+36|9781328606099|AI Superpowers: China, Silicon Valley and the New World Order|Kai-Fu Lee|01/12/2018|0
+37|9781328606099|AI Superpowers: China, Silicon Valley and the New World Order|Kai-Fu Lee|01/12/2018|0001
+38|9781328606099|AI Superpowers: China, Silicon Valley and the New World Order|Kai-Fu Lee|01/12/2018|0
+39|9781328606099|AI Superpowers: China, Silicon Valley and the New World Order|Kai-Fu Lee|01/12/2018|1111
+40|9781328606099|AI Superpowers: China, Silicon Valley and the New World Order|Kai-Fu Lee|01/12/2018|0
+41|9781451683400|Free Will|Sam Harris|26/04/2012|0001
+42|9781451683400|Free Will|Sam Harris|26/04/2012|0
+43|9781451683400|Free Will|Sam Harris|26/04/2012|0
+44|9781451683400|Free Will|Sam Harris|26/04/2012|0
+45|9781451683400|Free Will|Sam Harris|26/04/2012|0006
+46|9780141187761|Nineteen Eighty-Four|George Orwell|29/01/2004|0
+47|9780141187761|Nineteen Eighty-Four|George Orwell|29/01/2004|0001
+48|9780141187761|Nineteen Eighty-Four|George Orwell|29/01/2004|0
+49|9780141187761|Nineteen Eighty-Four|George Orwell|29/01/2004|0
+50|9780141187761|Nineteen Eighty-Four|George Orwell|29/01/2004|0001
